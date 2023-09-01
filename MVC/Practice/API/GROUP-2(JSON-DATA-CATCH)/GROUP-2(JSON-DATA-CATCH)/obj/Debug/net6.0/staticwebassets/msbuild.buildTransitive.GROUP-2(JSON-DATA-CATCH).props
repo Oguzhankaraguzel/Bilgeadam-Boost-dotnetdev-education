@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GROUP-2(JSON-DATA-CATCH).props" />
+</Project>

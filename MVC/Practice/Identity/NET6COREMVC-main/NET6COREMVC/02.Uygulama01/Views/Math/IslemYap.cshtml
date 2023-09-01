@@ -1,0 +1,33 @@
+﻿
+
+
+<label>Karekök: </label><input type="radio" value="Sqrt" onclick="tekInput(this)"/><br />
+<label>Toplama: </label><input type="radio" value="Toplama" onclick="ciftInput(this)"/><br />
+
+<form action="/Math/Sqrt">
+    <input name="sayi1" id = "sayi1"/>
+    <input name="sayi2" id = "sayi2"/>
+    <button type="submit">Hesapla</button>
+</form>
+
+
+<script>
+    function tekInput(e){
+        document.getElementById("sayi2").style.display = "none";
+        //document.getElementById("sayi1").value = e.value;
+        SetActionName(e.value);
+    }
+    function ciftInput(e){
+        document.getElementById("sayi2").style.display = "inline";
+        //document.getElementById("sayi1").value = e.value;
+        SetActionName(e.value);
+    }
+
+    function SetActionName(name) {
+        let form = document.querySelector("form");
+
+        //form.action = form.action.substring(0, form.action.lastIndexOf("/")) + `/${name}`;
+        form.action = "/Math/" + name;
+
+    }
+</script>

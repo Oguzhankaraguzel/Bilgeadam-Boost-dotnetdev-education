@@ -1,0 +1,12 @@
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\bin\Release\net6.0\Dietary.Entities.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\bin\Release\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\bin\Release\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Release\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Release\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Release\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Release\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Release\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Release\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Release\net6.0\refint\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Release\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Release\net6.0\ref\Dietary.Entities.dll

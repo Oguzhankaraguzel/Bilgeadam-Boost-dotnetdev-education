@@ -1,0 +1,11 @@
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\bin\Debug\kutuoyunu.exe.config
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\bin\Debug\kutuoyunu.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\bin\Debug\kutuoyunu.pdb
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\obj\Debug\kutuoyunu.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\obj\Debug\kutuoyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\obj\Debug\kutuoyunu.AnaSayfa.resources
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\obj\Debug\kutuoyunu.Properties.Resources.resources
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\obj\Debug\kutuoyunu.csproj.GenerateResource.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\obj\Debug\kutuoyunu.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\obj\Debug\kutuoyunu.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\14 SUBAT\KUTU OYUNU\kutuoyunu\obj\Debug\kutuoyunu.pdb

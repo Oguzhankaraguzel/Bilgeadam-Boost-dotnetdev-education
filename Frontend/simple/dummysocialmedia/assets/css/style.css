@@ -1,0 +1,154 @@
+/*navbar başlangıç*/
+html, body, h1, h2, h3, h4, h5 {
+    font-family: "Open Sans", sans-serif;
+}
+
+.navbar li:hover i{
+    background-color: white;
+    color: black !important;
+}
+
+.navbar li:hover {
+    background-color: white;
+    color: black !important;
+}
+
+.navbar li{
+    padding: 6px;
+}
+
+.navbar i{
+    color: white !important;
+}
+
+.navbar{
+    padding: 0px !important;
+    margin-bottom: 30px; 
+    background-color: #4d636f !important;
+}
+
+.navbar-brand{
+    background-color: #3a4b53 !important;
+    padding: 10px;
+    margin: 0px;
+    
+}
+
+.navbar-brand:hover{
+    background-color: white !important;
+}
+
+.navbar-brand:hover i{
+    color:black !important;
+}
+/*navbar bitiş*/
+
+/*sol div başlangıç*/
+.list-group :hover{
+    background-color: lightgray !important;
+    color: black !important;
+}
+
+.list-group-item{
+    background-color: #7d97a5 !important;
+}
+
+.tag1{
+    background-color: #303e45;
+}
+
+.tag2{
+    background-color: #3a4b53;
+}
+
+.tag3{
+    background-color: #435761;
+}
+
+.tag4{
+    background-color: #607d8b;
+}
+
+.tag5{
+    background-color: #becbd2;
+}
+
+.tag6{
+    background-color: #f5f7f8;
+}
+/*sol div bitiş*/
+
+/*orta dib başlangıç*/
+
+#sharepost{
+    background-color: #4d636f;
+    color: white;
+}
+
+#sharepost:hover{
+    background-color: #7d97a5;
+    color: black;
+}
+
+#sharepost:hover i{
+    color: black !important;
+}
+
+.pp2{
+    width: 60px;
+    height: 60px;
+}
+
+.postbutton1{
+    background-color: #7d97a5 !important;
+    color: white !important;
+}
+.postbutton1:hover{
+    background-color: lightgray !important;
+    color: black !important;
+}
+.postbutton2{
+    background-color: #4d636f !important;
+    color: white !important;
+}
+.postbutton2:hover{
+    background-color: lightgray !important;
+    color: black !important;
+}
+
+/*orta dib bitiş*/
+
+/*sağ div başlangıç*/
+
+.btn-success:hover{
+    background-color: lightgray;
+    color: gray;
+}
+
+.btn-danger:hover{
+    background-color: lightgray;
+    color: gray;
+}
+
+.info{
+    background-color: #dfe5e8;
+}
+
+.info:hover{
+    background-color: lightgray;
+}
+
+/*sağ div bitiş*/
+
+/*footer başlangıç*/
+
+.f1{
+    background-color: #7d97a5 !important;
+    color: white !important;
+}
+.f2{
+    background-color: #4d636f !important;
+    color: white !important;
+}
+
+/*footer bitiş*/

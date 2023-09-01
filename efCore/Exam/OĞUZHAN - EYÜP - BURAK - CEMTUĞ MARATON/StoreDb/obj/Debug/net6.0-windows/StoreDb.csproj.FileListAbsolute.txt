@@ -1,0 +1,128 @@
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\StoreDb.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\StoreDb.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\StoreDb.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\StoreDb.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\StoreDb.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.Form1.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\refint\StoreDb.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\ref\StoreDb.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.Form2.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.Form3.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\GROUP2-MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.Form4.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\StoreDb.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\StoreDb.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\StoreDb.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\StoreDb.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\StoreDb.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.Form1.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.Form2.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.Form3.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.Form4.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\refint\StoreDb.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\StoreDb.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\MART 27\OĞUZHAN - EYÜP - BURAK - CEMTUĞ MARATON\StoreDb\obj\Debug\net6.0-windows\ref\StoreDb.dll

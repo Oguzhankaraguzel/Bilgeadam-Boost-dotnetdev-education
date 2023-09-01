@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfaascii", "wfaascii\wfaascii.csproj", "{7119582F-BDFF-4405-BABF-9001F7225121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7119582F-BDFF-4405-BABF-9001F7225121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7119582F-BDFF-4405-BABF-9001F7225121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7119582F-BDFF-4405-BABF-9001F7225121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7119582F-BDFF-4405-BABF-9001F7225121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9AA81A7-4813-4FFA-A2D0-CE54E0E2085D}
+	EndGlobalSection
+EndGlobal

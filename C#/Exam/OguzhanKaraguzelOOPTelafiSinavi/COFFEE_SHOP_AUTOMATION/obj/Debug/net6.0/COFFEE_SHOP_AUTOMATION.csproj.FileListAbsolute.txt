@@ -1,0 +1,12 @@
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\obj\Debug\net6.0\COFFEE_SHOP_AUTOMATION.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\obj\Debug\net6.0\COFFEE_SHOP_AUTOMATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\obj\Debug\net6.0\COFFEE_SHOP_AUTOMATION.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\obj\Debug\net6.0\COFFEE_SHOP_AUTOMATION.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\obj\Debug\net6.0\COFFEE_SHOP_AUTOMATION.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\bin\Debug\net6.0\COFFEE_SHOP_AUTOMATION.deps.json
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\bin\Debug\net6.0\COFFEE_SHOP_AUTOMATION.dll
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\bin\Debug\net6.0\COFFEE_SHOP_AUTOMATION.pdb
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\obj\Debug\net6.0\COFFEE_SHOP_AUTOMATION.dll
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\obj\Debug\net6.0\refint\COFFEE_SHOP_AUTOMATION.dll
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\obj\Debug\net6.0\COFFEE_SHOP_AUTOMATION.pdb
+C:\Users\OGUZHAN\Desktop\OguzhanKaraguzelOOPTelafiSinavi\COFFEE_SHOP_AUTOMATION\obj\Debug\net6.0\ref\COFFEE_SHOP_AUTOMATION.dll

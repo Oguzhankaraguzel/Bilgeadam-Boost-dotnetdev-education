@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/*topbar bar başlangıç*/
+*{
+    font-family: 'Roboto',sans-serif;
+}
+
+sup{
+    font-size: small;
+    color: gray;
+}
+
+.topbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 30px;
+    width: 97%;
+    padding: 10px;
+    display: inline-flex;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+
+.topbar div{
+    display: inline-block;
+}
+  
+
+.marka{
+    font-size: large;
+    font-family: 'Roboto';
+    display: inline-block;
+    vertical-align: middle;
+    cursor:default;
+    white-space: nowrap;
+}
+
+.arama {
+    border-radius: 10px 0px 0px 10px;
+    font-size: 16px;
+    border: solid 1px;
+    width: 300px;
+}
+
+.arama-buton {
+    border-radius: 0px 10px 10px 0px;
+    cursor: pointer;
+    border: solid 1px;
+}
+
+.sira1{
+    order: 1;
+    min-width: 145px;
+}
+
+.sira2{
+    order: 2;
+    min-width: 370px;
+}
+
+.sira3{
+    order: 3;
+    min-width: 100px;
+}
+.fa-search {
+    font-size: 17px;
+    color: #999;
+}
+.fa-microphone{
+    margin-left: 10px;
+    cursor: pointer;
+}
+.fa-bars{
+    cursor: pointer;
+}
+.fa-youtube{
+    cursor: pointer;
+}
+.user-button{
+    background-color: #AA47BC;
+    border: none;
+    height: 30PX;
+    width: 30px;
+    border-radius: 50%;
+    color: white;
+}
+
+/*topbar bar bitiş*/
+
+/*navigation bar başlangıç*/
+
+.navbar{
+    position: fixed;
+    top: 53px;
+    left: 0;
+    width: 190px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.navbar hr{
+    border: solid px;
+    width: 165px;
+    color: #f2f2f2;
+    margin-top: 10px;
+}
+
+.navbar-button {
+    display: flex;
+    align-items: center;
+    padding: 5px 20px;
+    width: 190px;
+    border-radius: 10px;
+    border: none;
+    background-color: transparent;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+}
+  
+.navbar-button:hover {
+    background-color: #f2f2f2;
+    cursor: pointer;
+    font-weight: bold;
+}
+  
+.navbar-button .icon {
+    color: #000000;
+    margin-right: 13px; 
+}
+
+/*navigation bar bitiş*/
+
+/*filter bar bailangıç*/
+
+.filterbar{
+    position: fixed;
+    top: 62px;
+    left: 200px;
+    height: 25px;
+    width: 86%;
+    display: flex;
+    flex-direction: row;
+}
+
+.filterbar button{
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    margin-right: 5px;
+    border: none;
+    background-color: #f2f2f2;
+    font-family: 'Roboto', sans-serif;
+    white-space: nowrap;
+}
+
+.filterbar button:hover{
+    background-color: black;
+    color: white;
+}
+
+/*filter bar bitiş*/
+
+/*video card başlangıç*/
+
+.container-div {
+    position: fixed;
+    top: 85px;
+    left: 180px;
+    width: 1536ğx;
+    height: 636px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    overflow: scroll;
+  }
+  
+  .videocard {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    width: 290px;
+    height: 270px;
+    background-color: transparent;
+    border-radius: 5%;
+  }
+
+  .videocard:hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  }
+  
+  .videoimage {
+    width: 290px;
+    height: 220px;
+    border-radius: 5% 5% 0 0;
+  }
+  
+  .channelinfo {
+    display: flex;
+    flex-direction: row;
+    width: 310px;
+    height: 140px;
+    align-items: flex-start;
+    border-radius: 0 0 5% 5%;
+  }
+  
+  .channelimage {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 10px;
+  }
+  
+  .videotitle {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-right: 20px;
+  }
+  
+  .videoinfo {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .videoinfo span{
+    font-size: smaller;
+    color: #707070;
+    margin: 10px 0px 0px 0px
+    
+  }
+
+  .videotitle h4{
+    font-size: smaller;
+    margin: 10px 0px 0px 0px;
+  }
+  
+/*video card bitiş*/

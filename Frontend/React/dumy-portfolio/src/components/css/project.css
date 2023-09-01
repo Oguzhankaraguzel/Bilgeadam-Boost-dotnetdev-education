@@ -1,0 +1,8 @@
+.project{
+    padding: 20px;
+    font-size: larger;
+}
+
+.project h3,p{
+    padding: 10px;
+}

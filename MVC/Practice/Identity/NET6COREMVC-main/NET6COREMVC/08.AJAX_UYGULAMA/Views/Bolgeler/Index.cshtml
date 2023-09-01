@@ -1,0 +1,94 @@
+﻿@model List<SelectListItem>
+@{
+    ViewData["Title"] = "Bölgeler";
+}
+
+
+<div class="d-flex align-items-baseline">
+    <label class="form-label me-2">Bölgeler: </label>
+    <select id="bolgeler" asp-items="Model" class="form-select">
+        <option value="">Bölge seçiniz</option>
+        <option value="8">YOK</option>
+    </select>
+</div>
+
+<div id="errorMessage" class="alert alert-danger d-none mt-2"></div>
+<table id="sehirler" class="table d-none">
+    <thead>
+        <tr>
+            <th>Plaka No</th>
+            <th>Şehir Adı</th>
+            <th>Nüfusu</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+
+
+
+
+
+@section Scripts{
+    <script>
+        $("#bolgeler").change(bolgeListesiDegisti);
+
+        function bolgeListesiDegisti() {
+            //alert($(this).val());
+            let bolgeninID = $(this).val();
+            let url1 = "@Url.Action("SehirleriGetir","Bolgeler")";
+            //console.log(url1);
+            //let url2 = "Bolgeler/SehirleriGetir";
+            //console.log(url2);
+
+            //0 => false
+            //0.0 => false
+            //0 dışındaki tüm sayıların condition karşılığı true'dur.
+            //Herhangi bir bitte elektrik varsa true'dur.
+            if (bolgeninID) {
+                //AJAX - Asynchronous JavaScript and XML
+                //HTTP REQUEST - SUNUCUYA İSTEK ATMANI SAĞLIYOR.
+                //JQUERY'nin get metodu ajax şeklindede isimlendirilir.
+
+                /*
+                let test = `bolgeId=${bolgeninID}`;
+                $.get(url1, `bolgeId=${bolgeninID}`, function(data) {
+                    console.log(data);
+                    console.log(test);
+
+                });
+                */
+
+                $.get(url1, { bolgeId: bolgeninID }, function(data) {
+                    //console.log(data);
+
+                    $("#sehirler > tbody").html("");
+                    for (const sehir of data) {
+                        //console.log(sehir);
+                        $("#sehirler > tbody").append(`
+                                                <tr>
+                                                    <td>${sehir.id}</td>
+                                                    <td>${sehir.sehirAd}</td>
+                                                    <td>${sehir.nufus}</td>
+                                                </tr>
+                                                `);
+                    }
+                    $("#errorMessage").addClass("d-none");
+                }).fail(function(data) {
+                    //console.log(data.status);
+                    //console.log(data.responseText);
+                    $("#sehirler").addClass("d-none");
+                    $("#errorMessage").text(data.responseText);
+                    $("#errorMessage").removeClass("d-none");
+                });
+
+                //alert("Seçilen bölgenin ID:" + bolgeId);
+                $("#sehirler").removeClass("d-none");
+            }
+            else {
+                //alert("Lütfen bir bölge seçiniz!");
+                $("#sehirler").addClass("d-none");
+            }
+        }
+    </script>
+}

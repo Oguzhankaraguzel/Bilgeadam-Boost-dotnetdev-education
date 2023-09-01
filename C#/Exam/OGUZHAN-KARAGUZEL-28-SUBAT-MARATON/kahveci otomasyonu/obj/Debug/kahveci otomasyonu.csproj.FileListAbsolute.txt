@@ -1,0 +1,8 @@
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\28 SUBAT\SINAV\OGUZHAN-KARAGUZEL-28-SUBAT-MARATON\kahveci otomasyonu\obj\Debug\kahveci otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\28 SUBAT\SINAV\OGUZHAN-KARAGUZEL-28-SUBAT-MARATON\kahveci otomasyonu\obj\Debug\kahveci otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\28 SUBAT\SINAV\OGUZHAN-KARAGUZEL-28-SUBAT-MARATON\kahveci otomasyonu\obj\Debug\kahveci otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\28 SUBAT\SINAV\OGUZHAN-KARAGUZEL-28-SUBAT-MARATON\kahveci otomasyonu\bin\Debug\kahveci otomasyonu.exe.config
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\28 SUBAT\SINAV\OGUZHAN-KARAGUZEL-28-SUBAT-MARATON\kahveci otomasyonu\bin\Debug\kahveci otomasyonu.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\28 SUBAT\SINAV\OGUZHAN-KARAGUZEL-28-SUBAT-MARATON\kahveci otomasyonu\bin\Debug\kahveci otomasyonu.pdb
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\28 SUBAT\SINAV\OGUZHAN-KARAGUZEL-28-SUBAT-MARATON\kahveci otomasyonu\obj\Debug\kahveci otomasyonu.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\28 SUBAT\SINAV\OGUZHAN-KARAGUZEL-28-SUBAT-MARATON\kahveci otomasyonu\obj\Debug\kahveci otomasyonu.pdb

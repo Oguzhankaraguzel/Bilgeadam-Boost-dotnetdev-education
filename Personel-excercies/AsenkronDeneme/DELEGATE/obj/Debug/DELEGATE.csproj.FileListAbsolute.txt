@@ -1,0 +1,16 @@
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\bin\Debug\DELEGATE.exe.config
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\bin\Debug\DELEGATE.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\bin\Debug\DELEGATE.pdb
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\obj\Debug\DELEGATE.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\obj\Debug\DELEGATE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\obj\Debug\DELEGATE.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\obj\Debug\DELEGATE.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\obj\Debug\DELEGATE.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\bin\Debug\DELEGATE.exe.config
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\bin\Debug\DELEGATE.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\bin\Debug\DELEGATE.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\obj\Debug\DELEGATE.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\obj\Debug\DELEGATE.csproj.SuggestedBindingRedirects.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\obj\Debug\DELEGATE.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\obj\Debug\DELEGATE.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\DELEGATE\obj\Debug\DELEGATE.pdb

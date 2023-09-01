@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "INDEX2";
+}
+
+<h1>INDEX2 SAYFASI</h1>
+
+@{
+    if (ViewData["KullaniciId"] is not null)
+    {
+        <div>
+            Kullanıcı ID: @ViewData["KullaniciId"]
+        </div>
+    }
+}
+
+@{
+    if (ViewData["AdiSoyadi1"].ToString().Trim() != "")
+    {
+        <div>
+            Kullanıcı Adı Soyadı 1: @ViewData["AdiSoyadi1"]
+        </div>
+    }
+}
+@{
+    if (ViewData["AdiSoyadi2"].ToString().Trim() != "")
+    {
+        <div>
+            Kullanıcı Adı Soyadı 2: @ViewData["AdiSoyadi2"]
+        </div>
+    }
+}

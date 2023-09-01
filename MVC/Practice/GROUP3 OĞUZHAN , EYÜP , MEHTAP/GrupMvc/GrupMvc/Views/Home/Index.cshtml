@@ -1,0 +1,60 @@
+﻿@model (List<Product> p, List<Catogory> c)
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@foreach (var cat in Model.c)
+{
+    <table class="table table-striped">
+        <thead>@cat.Name</thead>
+        <tr>
+            <td>Ad</td>
+            <td>Fiyat</td>
+            <td>Stock Durumu</td>
+            <td>Fotoğraf</td>
+        </tr>
+        @foreach (var prod in Model.p)
+        {
+            if (cat.Id == prod.CatogoryId)
+            {
+                <tr>
+                    <td>@prod.Name</td>
+                    <td>@prod.Price</td>
+                    <td>
+                        @{
+                            if (@prod.InStoct == true)
+                            {
+                                <p class="bg-success"> Stokta mevcut</p>
+                            }
+                            else
+                            {
+                                <p class="bg-danger"> Stokta mevcut değil</p>
+                            }
+                        }
+                    </td>
+                    <td>
+                        @{
+                            if (prod.ImageData == null)
+                            {
+                                <p>There is no photo</p>
+                            }
+                            else
+                            {
+                                <img src="data:image/jpeg;base64,@System.Convert.ToBase64String(prod.ImageData)" style=" height:50px !important" />
+                            }
+                        }
+
+                    </td>
+                </tr>
+            }
+
+
+        }
+
+
+    </table>
+
+
+}
+

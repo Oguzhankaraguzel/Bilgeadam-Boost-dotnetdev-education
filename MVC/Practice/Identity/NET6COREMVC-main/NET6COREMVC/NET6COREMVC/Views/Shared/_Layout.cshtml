@@ -1,0 +1,27 @@
+﻿<html>
+<head>
+    @*<title>Şehirler</title>*@
+   @* <title>@(ViewData["Title"] == null ? ViewData["Title"]: "SEKME ADI YOK")</title>*@
+    <title>@(ViewData["Title"] ?? "SEKME ADI YOK")</title>
+    <link rel="stylesheet" href="~/assets/custom/css/style.css" />
+</head>
+<body>
+    <p>@@oguzhan@@gmail.com</p>
+    <nav>
+        <ul>
+            <li>
+                <a href="/Sehir/Sehirler">Şehirler</a>
+            </li>
+            <li>
+                <a href="/Sehir/SehirlerVeUlkeler">Şehirler ve Ülkeler</a>
+            </li>
+        </ul>
+    </nav>
+
+    @RenderBody()
+
+    
+
+</body>
+
+</html>

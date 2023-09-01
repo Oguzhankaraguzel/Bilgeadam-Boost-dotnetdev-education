@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dIkl5DHSFwPyRt53XI1jldujYMi3/1GAMn2NbhPe2Gm22I7ECO/y6s53m/iM0JKfgYmddMrdkXeXEJItzLjWug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OGUZHAN\\Desktop\\yazılım dersler\\Bilgeadam projeler\\DIETARYPROJECT\\GROUP - 1 DİETARY PROJECT\\DietaryProject-main\\Dietary.Entities\\Dietary.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OGUZHAN\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

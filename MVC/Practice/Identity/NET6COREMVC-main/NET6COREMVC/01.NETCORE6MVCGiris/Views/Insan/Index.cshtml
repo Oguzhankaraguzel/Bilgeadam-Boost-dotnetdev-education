@@ -1,0 +1,42 @@
+﻿@model List<Insan>
+
+
+<style>
+table,th,td{
+    border:1px solid black;
+}
+</style>
+<h1>İnsanlar</h1>
+<table>
+    <thead>
+        <tr>
+            <th>
+                Adı Soyadı
+            </th>
+            <th>
+                Doğum Yılı
+            </th>
+            <th>
+                Yaş
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var insan in Model)
+            {
+                        <tr>
+                            <td>
+                                @insan.AdiSoyadi
+                            </td>
+                            <td>
+                                @insan.DogumYili
+                            </td>
+                            <td>
+                                @(DateTime.Now.Year - insan.DogumYili)
+                            </td>
+                        </tr>
+            }
+        }
+    </tbody>
+</table>

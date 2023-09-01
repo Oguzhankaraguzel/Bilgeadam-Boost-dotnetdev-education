@@ -1,0 +1,20 @@
+﻿<html>
+
+	<head>
+		<title>@(ViewData["Title"] ?? "Başlık Yok")</title>
+	</head>
+	<body>
+		<nav>
+			<ul>
+				<li>
+				<a asp-area="Employee" asp-controller="Home" asp-action="Index">ANASAYFA</a>
+				</li>
+			<li>
+				<a asp-area="Employee" asp-controller="Home" asp-action="About">HAKKIMIZDA</a>
+			</li>
+			</ul>
+		</nav>
+		@RenderBody()
+	</body>
+
+</html>

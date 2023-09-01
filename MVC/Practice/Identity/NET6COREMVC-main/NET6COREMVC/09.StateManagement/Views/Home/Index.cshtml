@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+    <h1>OTURUM AÇAN KULLANICI</h1>
+    <p>@Context.Session.GetString("username")</p>
+</div>
+
+<div class="text-center">
+    <h1>ŞEHİR BİLGİSİ</h1>
+    <p>@Context.Request.Cookies["Sehir"]</p>
+</div>

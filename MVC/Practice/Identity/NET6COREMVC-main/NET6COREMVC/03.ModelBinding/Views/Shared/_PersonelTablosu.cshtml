@@ -1,0 +1,11 @@
+﻿@{
+    List<string> basliklar = new() { "Ad", "Soyad" };
+    Dictionary<int, List<string>> satirlar = new()
+    { 
+    {1,new List<string>(){"Fatih Kaan","Açıkgöz"}},
+    {2,new List<string>(){"Gökçehan","Gücük"}},
+    {3,new List<string>(){"Mehmet Mustafa","Özcan"}}
+    };
+}
+
+@Html.CreateTable(basliklar, satirlar,"border:1px solid black;")

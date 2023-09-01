@@ -1,0 +1,33 @@
+.dropdown-menu {
+    max-height: 560px;
+    width: 315px;
+    max-width: 500px;
+    overflow-y: auto;
+  }
+
+
+header nav{
+    background-color: #00FFB6;
+    
+}
+
+header li:hover{
+    background-color: bisque ;
+}
+
+.card{
+    background-color: bisque !important;
+    border: none !important;
+}
+
+.card img{
+    height: 265px;
+    width: 265px;
+}
+
+body{
+    background-color: bisque  !important;
+}
+
+
+

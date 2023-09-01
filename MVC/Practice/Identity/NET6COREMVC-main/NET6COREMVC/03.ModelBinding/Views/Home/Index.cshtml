@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_NestedLayout";
+}
+
+
+@{
+    if (TempData["msg"] is not null)
+    {
+        if (TempData["msg"].ToString() == "success")
+        {
+    <div class="alert alert-success">Başarıyla giriş yapıldı!</div>
+        }
+    }
+
+}
+<partial name="_PersonelTablosu"/>
+<partial name="~/Views/Home/Privacy.cshtml"/>
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@section Bilgi{
+    <div class="alert alert-info">BURASI HOME/INDEX SAYFASIDIR</div>
+}
+
+@section Footer{
+    <div class="alert alert-info">BU BENİM FOOTERIM!</div>
+}

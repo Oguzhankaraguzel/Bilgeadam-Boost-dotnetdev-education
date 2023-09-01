@@ -1,0 +1,12 @@
+﻿
+
+<ul>
+    @{
+        List<string> menuList = new() { "Link 1", "Link 2", "Link 3" };
+        foreach (var item in menuList)
+        {
+            <li><a href="#">@item</a></li>
+        }
+    }
+
+</ul>

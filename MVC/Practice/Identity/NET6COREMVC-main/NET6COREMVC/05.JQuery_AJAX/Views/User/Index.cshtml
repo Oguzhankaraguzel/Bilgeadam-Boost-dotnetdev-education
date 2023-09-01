@@ -1,0 +1,55 @@
+﻿@model SystemUser
+
+<div class="card">
+    <div class="card-header">
+        <h2>KAYIT SAYFASI</h2>
+    </div>
+    <div class="card-body">
+        <form asp-action="Index" asp-controller="User" method="post">
+
+            <div class="form-group">
+                <label asp-for="UserName">Kullanıcı Adı:</label>
+                <input asp-for="UserName" class="form-control" />
+                @* Validasyon için alan eklememiz gerekir.*@
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="IdentificationNumber">T.C. Kimlik Numarası:</label>
+                <input asp-for="IdentificationNumber" class="form-control" />
+                @* Validasyon için alan eklememiz gerekir.*@
+                <span asp-validation-for="IdentificationNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Score">Puan:</label>
+                <input asp-for="Score" class="form-control" />
+                @* Validasyon için alan eklememiz gerekir.*@
+                <span asp-validation-for="Score" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="EmailAddress">E-posta Adresi:</label>
+                <input asp-for="EmailAddress" class="form-control" />
+                @* Validasyon için alan eklememiz gerekir.*@
+                <span asp-validation-for="EmailAddress" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password">Şifre:</label>
+                <input asp-for="Password" type="password" class="form-control" />
+                @* Validasyon için alan eklememiz gerekir.*@
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PasswordConfirmation">Şifre Tekrarı:</label>
+                <input asp-for="PasswordConfirmation" type="password" class="form-control" />
+                @* Validasyon için alan eklememiz gerekir.*@
+                <span asp-validation-for="PasswordConfirmation" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">KAYIT OL</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soru Kronometresi Testi</title>
+</head>
+<body>
+
+<h1>Sınav Soruları</h1>
+
+<div class="questions">
+    <div class="question" id="question1" style="display: block;">
+        <h2>Soru 1</h2>
+        <p>Kronometre: <span class="timer" data-time="0"></span></p>
+        <button class="next-button">Sonraki Soru</button>
+    </div>
+    
+    <div class="question" id="question2" style="display: none;">
+        <h2>Soru 2</h2>
+        <p>Kronometre: <span class="timer" data-time="0"></span></p>
+        <button class="next-button">Sonraki Soru</button>
+    </div>
+    
+    <div class="question" id="question3" style="display: none;">
+        <h2>Soru 3</h2>
+        <p>Kronometre: <span class="timer" data-time="0"></span></p>
+        <button class="next-button">Sonraki Soru</button>
+    </div>
+</div>
+
+<script>
+    var timers = {}; // Her soru için ayrı kronometre saklamak için nesne
+
+    function updateTimer(questionId) {
+        var timerElement = document.getElementById(questionId).querySelector(".timer");
+        var time = parseFloat(timerElement.getAttribute("data-time"));
+        time += 1;
+        
+        var minutes = Math.floor(time / 60);
+        var seconds = time % 60;
+        
+        timerElement.innerHTML = minutes + ":" + (seconds < 10 ? "0" : "") + seconds;
+        timerElement.setAttribute("data-time", time);
+    }
+
+    function showQuestion(questionId) {
+        document.querySelectorAll(".question").forEach(function(question) {
+            question.style.display = "none";
+        });
+
+        var questionElement = document.getElementById(questionId);
+        questionElement.style.display = "block";
+
+        clearInterval(timers[questionId]);
+        timers[questionId] = setInterval(function() {
+            updateTimer(questionId);
+        }, 1000);
+    }
+
+    document.querySelectorAll(".next-button").forEach(function(button) {
+        button.addEventListener("click", function() {
+            var currentQuestion = this.parentNode;
+            var nextQuestion = currentQuestion.nextElementSibling;
+
+            showQuestion(nextQuestion.id);
+        });
+    });
+
+    // İlk soruyu göster ve kronometreyi başlat
+    showQuestion("question1");
+</script>
+
+</body>
+</html>

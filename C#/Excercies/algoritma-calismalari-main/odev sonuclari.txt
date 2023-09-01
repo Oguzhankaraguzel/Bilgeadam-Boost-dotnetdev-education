@@ -1,0 +1,17 @@
+[1-20] arasi sayilara bolunebilen sayi = 232.792.560
+-------------------------------------------------------------------------
+1-100 arasi sayilarin karelerinin toplami = 338.350
+
+1-100 arasi sayilarin toplamlarinin karesi = 25.502.500
+
+Ikisinin farki = 25.164.150
+-------------------------------------------------------------------------
+10001. Asal sayi = 104.743
+-------------------------------------------------------------------------
+a = 200, b = 375, c = 425, a*b*c = 31.875.000
+-------------------------------------------------------------------------
+Basamaklarinin carpimi en buyuk olan 13 basamakli sayi = 5576689664895
+Basamaklari carpimi = 23514624000
+Eger sayiyi sagdan sola dogru okuyarak gidersek
+Basamaklarinin carpimi en buyuk olan 13 basamakli sayi = 5984669866755
+Basamaklari carpimi = 23514624000

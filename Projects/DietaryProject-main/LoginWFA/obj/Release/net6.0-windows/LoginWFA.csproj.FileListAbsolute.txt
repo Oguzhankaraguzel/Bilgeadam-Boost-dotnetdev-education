@@ -1,0 +1,88 @@
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Remember Me.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Remember Me.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Remember Me.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Remember Me.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Remember Me.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Release\net6.0-windows\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.ActivityLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.CalorieLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.Forms.ActivitiesForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.Forms.RegisterForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.Forms.SummaryForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.RegisterFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.Resources.SettingsFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.SignupLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.SummaryLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.UserDetailsLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\Remember Me.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\refint\Remember Me.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\Remember Me.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Release\net6.0-windows\ref\Remember Me.dll

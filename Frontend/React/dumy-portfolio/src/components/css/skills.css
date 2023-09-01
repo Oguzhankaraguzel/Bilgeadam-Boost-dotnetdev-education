@@ -1,0 +1,15 @@
+.skills{
+    font-size: larger;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.skills ul{
+    list-style: none;
+    column-count: 2;
+    padding: 10px;
+}
+
+.skills li{
+    padding: 10px;
+}

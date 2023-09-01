@@ -1,0 +1,8 @@
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\1-20 hepsinebolunebilen\bin\Debug\1-20 hepsinebolunebilen.exe.config
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\1-20 hepsinebolunebilen\bin\Debug\1-20 hepsinebolunebilen.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\1-20 hepsinebolunebilen\bin\Debug\1-20 hepsinebolunebilen.pdb
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\1-20 hepsinebolunebilen\obj\Debug\1-20 hepsinebolunebilen.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\1-20 hepsinebolunebilen\obj\Debug\1-20 hepsinebolunebilen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\1-20 hepsinebolunebilen\obj\Debug\1-20 hepsinebolunebilen.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\1-20 hepsinebolunebilen\obj\Debug\1-20 hepsinebolunebilen.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\1-20 hepsinebolunebilen\obj\Debug\1-20 hepsinebolunebilen.pdb

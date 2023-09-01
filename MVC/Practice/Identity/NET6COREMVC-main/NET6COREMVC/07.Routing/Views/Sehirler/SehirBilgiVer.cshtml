@@ -1,0 +1,22 @@
+﻿@model Sehir
+@{
+    ViewData["Title"] = Model.Ad + " isimli şehrin bilgileri";
+}
+
+@{
+    if(Model is not null)
+    {
+    <dl>
+                <dt>Plaka Kodu</dt>
+                <dd>@Model.PlakaKodu</dd>
+                <dt>Şehir adı</dt>
+                <dd>@Model.Ad</dd>
+                <dt>Nüfus</dt>
+                <dd>@Model.Nufus</dd>
+    </dl>
+    }
+    else
+    {
+    <div class="alert alert-danger">BÖYLE BİR ŞEHİR YOKTUR!</div>
+    }
+}

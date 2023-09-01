@@ -1,0 +1,21 @@
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfaascii\wfaascii\bin\Debug\wfaascii.exe.config
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfaascii\wfaascii\bin\Debug\wfaascii.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfaascii\wfaascii\bin\Debug\wfaascii.pdb
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.Form1.resources
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.Properties.Resources.resources
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.csproj.GenerateResource.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\bin\Debug\wfaascii.exe.config
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\bin\Debug\wfaascii.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\bin\Debug\wfaascii.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.csproj.SuggestedBindingRedirects.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.Form1.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfaascii\wfaascii\obj\Debug\wfaascii.pdb

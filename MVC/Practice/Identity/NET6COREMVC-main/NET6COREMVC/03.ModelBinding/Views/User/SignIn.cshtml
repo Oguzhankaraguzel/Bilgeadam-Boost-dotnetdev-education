@@ -1,0 +1,25 @@
+﻿
+@model User
+
+<div class="row justify-content-center">
+    <div class="col-4 ">
+        <form asp-controller="User" asp-action="SignIn" method="post">
+            <div class="mb-3">
+                @*<label for="usernameInput" class="form-label">Kullanıcı Adı: </label>*@
+               @* @Html.Label("usernameInput","Kullanıcı Adı: ",new{@class="form-label"})*@
+
+                <label asp-for="Username"></label>
+
+                <input type="text" class="form-control" asp-for="Username" />
+
+            </div>
+            <div class="mb-3">
+               @* <label for="exampleInputPassword1" class="form-label">Password</label>*@
+                <label asp-for="Password"></label>
+                <input type="password" class="form-control" asp-for="Password">
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+    </div>
+</div>

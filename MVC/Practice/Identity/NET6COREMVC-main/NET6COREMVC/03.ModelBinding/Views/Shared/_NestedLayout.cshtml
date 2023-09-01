@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "_Layout";
+}
+
+<h1>NESTED LAYOUT PAGE</h1>
+<div class="row">
+    <div class="col-8 border border-primary">
+        @RenderBody()
+    </div>
+    <div class="col-4 border border-primary">
+        <partial name="_Sidebar" />
+    </div>
+</div>
+
+@RenderSection("Bilgi",false)
+
+
+@section Bilgi{
+    <div class="alert alert-info">BURASI NESTEDLAYOUTTAN GELİYOR</div>
+}
+
+
+@section Footer{
+    @RenderSection("Footer")
+}

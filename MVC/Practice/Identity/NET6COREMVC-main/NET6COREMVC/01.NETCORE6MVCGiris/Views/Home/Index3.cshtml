@@ -1,0 +1,30 @@
+﻿@model Insan
+
+<table>
+    <thead>
+        <tr>
+            <th>
+                Adı Soyadı
+            </th>
+            <th>
+                Doğum Yılı
+            </th>
+             <th>
+                Yaş
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                @Model.AdiSoyadi
+            </td>
+            <td>
+                @Model.DogumYili
+            </td>
+            <td>
+                @(DateTime.Now.Year - Model.DogumYili)
+            </td>
+        </tr>
+    </tbody>
+</table>

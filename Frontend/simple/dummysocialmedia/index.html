@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css"
+      integrity="sha512-SbiR/eusphKoMVVXysTKG/7VseWii+Y3FdHrt0EpKgpToZeemhqHeZeLWLhJutz/2ut2Vw1uQEj2MbRF+TVBUA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <i class="fa-solid fa-lg fa-house d-none d-lg-inline-block fa-fw"></i
+          ><span> ANK - 12</span></a
+        >
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavDropdown"
+          aria-controls="navbarNavDropdown"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#"
+                ><i
+                  class="fa-solid fa-lg fa-earth-europe d-none d-lg-inline-block fa-fw"
+                ></i
+                ><span class="d-lg-none"> News</span></a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#"
+                ><i
+                  class="fa-solid fa-lg fa-user d-none d-lg-inline-block fa-fw"
+                  style="color: #000000"
+                ></i
+                ><span class="d-lg-none"> Account Settings</span></a
+              >
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#"
+                ><i
+                  class="fa-solid fa-lg fa-envelope d-none d-lg-inline-block fa-fw"
+                  style="color: #000000"
+                ></i
+                ><span class="d-lg-none"> Messages</span></a
+              >
+            </li>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                <i
+                  class="fa-solid fa-lg fa-bell d-none d-lg-inline-block fa-fw"
+                  style="color: #000000"
+                ></i
+                ><span class="d-lg-none"> Notifications</span
+                ><sup
+                  ><span class="badge rounded-pill text-bg-danger">3</span></sup
+                >
+              </a>
+              <ul class="dropdown-menu">
+                <li>
+                  <a class="dropdown-item" href="#">One New friend request</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="#"
+                    >Jhon Doe posted on your wall</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="#">Jane likes your post</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="#">
+                <img
+                  class="rounded-circle d-none d-lg-inline"
+                  src="https://www.w3schools.com/w3images/avatar2.png"
+                  width="30px"
+                  height="30px"
+                  alt=""
+                />
+                <span class="d-lg-none">Profile</span>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <main class="container">
+      <div class="row">
+        <div class="col-lg-3 text-break">
+          <div class="shadow rounded p-3 mb-3">
+            <div class="h5 text-center">My Profile</div>
+            <div class="text-center py-3 border-bottom">
+              <img
+                class="rounded-circle"
+                src="https://www.w3schools.com/w3images/avatar3.png"
+                width="100px"
+                height="100px"
+                alt=""
+              />
+            </div>
+            <div>
+              <div class="m-3">
+                <i class="fa-solid fa-pencil me-2 fa-fw"></i>Designer, UI
+              </div>
+              <div class="m-3">
+                <i class="fa-solid fa-home me-2 fa-fw"></i>London, UK
+              </div>
+              <div class="m-3">
+                <i class="fa-solid fa-cake me-2 fa-fw"></i>April 1, 1988
+              </div>
+            </div>
+          </div>
+          <div class="shadow rounded mb-3">
+            <ul class="list-group">
+              <a href="#" class="list-group-item"
+                ><i class="fa-solid fa-circle-notch m-2 fa-fw"></i> My Groups</a
+              >
+              <a href="#" class="list-group-item"
+                ><i class="fa-solid fa-calendar-check m-2 fa-fw"></i> My
+                Events</a
+              >
+              <a href="#" class="list-group-item"
+                ><i class="fa-solid fa-image m-2 fa-fw"></i> My Photos</a
+              >
+            </ul>
+          </div>
+          <div
+            class="text-wrap shadow rounded mb-3 p-3 d-none d-lg-inline-block"
+          >
+            <p class="text-start fs-5">Interests</p>
+            <span class="text-start text-light tag1 px-1">News</span>
+            <span class="text-start text-light tag2 px-1">W3Schools</span>
+            <span class="text-start text-light tag2 px-1">Labels</span>
+            <span class="text-start text-light tag3 px-1">Games</span>
+            <span class="text-start text-light tag3 px-1">Friends</span>
+            <span class="text-start text-light tag4 px-1">Games</span>
+            <span class="text-start text-light tag4 px-1">Friends</span>
+            <span class="text-start text-black tag5 px-1">Food</span>
+            <span class="text-start text-black tag5 px-1">Desing</span>
+            <span class="text-start text-black tag6 px-1">Art</span>
+            <span class="text-start text-black tag6 px-1">Photos</span>
+          </div>
+        </div>
+
+        <div class="col-lg-6 text-break">
+          <div class="shadow rounded mb-3 p-3">
+            <form>
+              <div class="mb-3">
+                <label for="post" class="form-label"
+                  >Social Media template by "Oğuzhan Karagüzel"</label
+                >
+                <p
+                  type="text"
+                  contenteditable="true"
+                  class="form-control"
+                  id="post"
+                ></p>
+              </div>
+              <button type="submit" class="btn" id="sharepost">
+                <i class="fa-solid fa-pencil" style="color: #ffffff"></i> Post
+              </button>
+            </form>
+          </div>
+
+          <div class="shadow rounded mb-3 p-3">
+            <div class="d-flex">
+              <img
+                class="rounded-circle pp2"
+                src="https://www.w3schools.com/w3images/avatar2.png"
+                alt="John Doe"
+              />
+              <p class="fs-5 p-3 flex-grow-1">John Doe</p>
+              <span>1 min</span>
+            </div>
+            <hr />
+            <div class="row">
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+                vitae ab fugit? Numquam dignissimos blanditiis cupiditate vel
+                eligendi deserunt molestiae, facere similique libero tempora
+                quod nostrum optio rem veritatis. Architecto?
+              </p>
+              <img
+                class="w-50 mb-3"
+                src="https://www.w3schools.com/w3images/lights.jpg"
+                alt=""
+              />
+              <img
+                class="w-50 mb-3"
+                src="https://www.w3schools.com/w3images/nature.jpg"
+                alt=""
+              />
+              <div>
+                <button type="button" class="btn postbutton1">
+                  <i class="fa-solid fa-thumbs-up"></i> Like
+                </button>
+                <button type="button" class="btn postbutton2">
+                  <i class="fa-solid fa-comment"></i> Comment
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <div class="shadow rounded mb-3 p-3">
+            <div class="d-flex">
+              <img
+                class="rounded-circle pp2"
+                src="https://www.w3schools.com/w3images/avatar5.png"
+                alt="John Doe"
+              />
+              <p class="fs-5 p-3 flex-grow-1">Jane Doe</p>
+              <span>16 min</span>
+            </div>
+            <hr />
+            <div class="row">
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+                vitae ab fugit? Numquam dignissimos blanditiis cupiditate vel
+                eligendi deserunt molestiae, facere similique libero tempora
+                quod nostrum optio rem veritatis. Architecto?
+              </p>
+              <div>
+                <button type="button" class="btn postbutton1">
+                  <i class="fa-solid fa-thumbs-up"></i> Like
+                </button>
+                <button type="button" class="btn postbutton2">
+                  <i class="fa-solid fa-comment"></i> Comment
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <div class="shadow rounded mb-3 p-3">
+            <div class="d-flex">
+              <img
+                class="rounded-circle pp2"
+                src="https://www.w3schools.com/w3images/avatar6.png"
+                alt="John Doe"
+              />
+              <p class="fs-5 p-3 flex-grow-1">Angie Jane</p>
+              <span class="">32 min</span>
+            </div>
+            <hr />
+            <div class="row">
+              <p>Have you seen this?</p>
+              <img
+                class="w-100 mb-3"
+                src="https://www.w3schools.com/w3images/nature.jpg"
+                alt=""
+              />
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+                vitae ab fugit? Numquam dignissimos blanditiis cupiditate vel
+                eligendi deserunt molestiae, facere similique libero tempora
+                quod nostrum optio rem veritatis. Architecto?
+              </p>
+              <div>
+                <button type="button" class="btn postbutton1">
+                  <i class="fa-solid fa-thumbs-up"></i> Like
+                </button>
+                <button type="button" class="btn postbutton2">
+                  <i class="fa-solid fa-comment"></i> Comment
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-2 text-break">
+          <div class="shadow rounded p-3 mb-3">
+            <p class="text-center fs-6">Upcoming Events:</p>
+            <img
+              class="img-fluid mb-3"
+              src="https://www.w3schools.com/w3images/forest.jpg"
+              alt=""
+            />
+            <p class="text-center h6 fw-bold">Holiday</p>
+            <p class="text-center fs-6">Friday 15:00</p>
+            <button type="button" class="btn w-100 info">Info</button>
+          </div>
+
+          <div class="shadow rounded p-4 mb-3 text-center">
+            <p class="fs-6">Friend Request</p>
+            <img
+              class="img-fluid mb-1 w-75"
+              src="https://www.w3schools.com/w3images/avatar6.png"
+              alt=""
+            />
+            <p class="h6 fw-bold mb-3">Jane Doe</p>
+            <div class="row">
+              <div class="col-6 p-0">
+                <button type="button" class="btn btn-success w-100">
+                  <i class="fa-solid fa-check"></i>
+                </button>
+              </div>
+              <div class="col-6 p-0">
+                <button type="button" class="btn btn-danger w-100">
+                  <i class="fa-solid fa-xmark"></i>
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <div class="shadow rounded p-5 mb-3 text-center h-1">ADS</div>
+
+          <div class="shadow rounded p-5 mb-3 text-center fs-2">
+            <i class="fa-solid fa-bug" style="color: #000000"></i>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <div class="f1 p-3">
+        <p class="h5">Footer</p>
+      </div>
+      <div class="f2 p-2">
+        <p class="mx-2">
+          Powered by Bootstrap-w3school-bilgeadamteknoloji-<a href="https://github.com/Oguzhankaraguzel" style="color: white;"> → oğuzhankaragüzel ←</a> 
+        </p>
+      </div>
+    </footer>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.bundle.min.js"
+      integrity="sha512-i9cEfJwUwViEPFKdC1enz4ZRGBj8YQo6QByFTF92YXHi7waCqyexvRD75S5NVTsSiTv7rKWqG9Y5eFxmRsOn0A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+  </body>
+</html>

@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+    <label>Adı Soyadı: </label><span> @ViewData["Isim"] @ViewData["SoyIsim"]</span>
+    <label>Doğum Yılı: </label><span> @ViewData["DogumYili"]</span>
+</div>
+
+<div class="text-center">
+    <label>Adı Soyadı: </label><span>@ViewBag.adSoyad</span>
+    <label>Doğum Yılı: </label><span> @ViewBag.DogumYili</span>
+
+</div>
+
+<div class="text-center">
+    <label>Adı Soyadı: </label><span>@ViewBag.Insan1.AdiSoyadi</span>
+    <label>Doğum Yılı: </label><span> @ViewBag.Insan1.DogumYili</span>
+</div>
+
+<div class="text-center">
+    <label>Adı Soyadı: </label><span>@((ViewData["Insan1"] as Insan).AdiSoyadi)</span>
+    <label>Doğum Yılı: </label><span> @((ViewData["Insan1"] as Insan).DogumYili)</span>
+</div>
+
+
+<div class="text-center">
+    <label>Adı Soyadı: </label><span>@ViewBag.Insan2.AdiSoyadi</span>
+    <label>Doğum Yılı: </label><span> @ViewBag.Insan2.DogumYili</span>
+</div>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<ul>
+    @{
+        foreach (var liste1Data in (ViewData["liste1"] as List<string>))
+        {
+            <li>@liste1Data</li>
+        }
+    }
+</ul>
+
+<ul>
+    @{
+        foreach (var liste2Data in ViewBag.liste2)
+        {
+            <li>@liste2Data</li>
+        }
+    }
+
+</ul>

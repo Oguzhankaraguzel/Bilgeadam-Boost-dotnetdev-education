@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\LoginWFA\\Dietary.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.BLL\\Dietary.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.BLL\\Dietary.BLL.csproj",
+        "projectName": "Dietary.BLL",
+        "projectPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.BLL\\Dietary.BLL.csproj",
+        "packagesPath": "C:\\Users\\Ali Ozan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ali Ozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.DAL\\Dietary.DAL.csproj": {
+                "projectPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.DAL\\Dietary.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.DAL\\Dietary.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.DAL\\Dietary.DAL.csproj",
+        "projectName": "Dietary.DAL",
+        "projectPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.DAL\\Dietary.DAL.csproj",
+        "packagesPath": "C:\\Users\\Ali Ozan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ali Ozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.Entities\\Dietary.Entities.csproj": {
+                "projectPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.Entities\\Dietary.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.Entities\\Dietary.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.Entities\\Dietary.Entities.csproj",
+        "projectName": "Dietary.Entities",
+        "projectPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.Entities\\Dietary.Entities.csproj",
+        "packagesPath": "C:\\Users\\Ali Ozan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ali Ozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\LoginWFA\\Dietary.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\LoginWFA\\Dietary.UI.csproj",
+        "projectName": "Dietary.UI",
+        "projectPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\LoginWFA\\Dietary.UI.csproj",
+        "packagesPath": "C:\\Users\\Ali Ozan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\LoginWFA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ali Ozan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.BLL\\Dietary.BLL.csproj": {
+                "projectPath": "C:\\Users\\Ali Ozan\\Desktop\\DIETARYPROJECT.V.2.2.2\\Dietary.BLL\\Dietary.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Microcharts": {
+              "target": "Package",
+              "version": "[0.9.5.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

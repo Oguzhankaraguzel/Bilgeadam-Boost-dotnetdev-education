@@ -1,0 +1,8 @@
+﻿Bir yandan mvc bitirme projesi ile uğraşırken stratejiler birbirine karıştı iyice.
+controller'lar ef core bilgilerini dahil etmeler falan iyice çorba oldu kafam diyebilirim.
+bundan dolayı bazı mantık hataları bulunuyor diyebilirim.
+ancak genel olarak clean code yazmaya gayret ettim.
+gamze hoca uyardığı için sınava ikinci kez girdim.
+sizden yüksek not gibi bir ricam yok.
+sizden tek bir ricam var o da lütfen geri dönüş yapın ve yukarıda belirttiğim mantık hatalarının dışında'da,
+oldukça aydınlatıcı, yönlendirici ve tavsiyeler içeren bir geri dönüş yapın lütfen.

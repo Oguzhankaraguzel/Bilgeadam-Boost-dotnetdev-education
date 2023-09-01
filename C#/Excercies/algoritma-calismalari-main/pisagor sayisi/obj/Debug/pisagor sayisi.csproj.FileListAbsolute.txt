@@ -1,0 +1,8 @@
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\pisagor sayisi\bin\Debug\pisagor sayisi.exe.config
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\pisagor sayisi\bin\Debug\pisagor sayisi.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\pisagor sayisi\bin\Debug\pisagor sayisi.pdb
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\pisagor sayisi\obj\Debug\pisagor sayisi.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\pisagor sayisi\obj\Debug\pisagor sayisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\pisagor sayisi\obj\Debug\pisagor sayisi.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\pisagor sayisi\obj\Debug\pisagor sayisi.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\31 OCAK\ODEV\pisagor sayisi\obj\Debug\pisagor sayisi.pdb

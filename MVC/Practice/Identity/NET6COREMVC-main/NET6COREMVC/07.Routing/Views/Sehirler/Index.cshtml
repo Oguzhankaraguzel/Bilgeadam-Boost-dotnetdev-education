@@ -1,0 +1,31 @@
+﻿@model List<Sehir>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>ŞEHİRLER</h1>
+
+<div class="row">
+    <div class="col-6">
+        <h2>PLAKA KODUNU KULLANARAK BİLGİ</h2>
+        <ul>
+            @foreach (var sehir in Model)
+            {
+                @*<li> <a href="SehirBilgiVer/@sehir.PlakaKodu">@sehir.Ad isimli şehrin bilgisini göster.</a></li>*@
+                <li> <a asp-action="SehirBilgiVer" asp-route-test=testRouteDegeri asp-route-plakaKodu=@sehir.PlakaKodu asp-route-dandikVeri=hadiMolaya>@sehir.Ad isimli şehrin bilgisini göster.</a></li>
+            }
+        </ul>
+    </div>
+    <div class="col-6">
+        <h2>ŞEHİR ADINI KULLANARAK BİLGİ</h2>
+        <ul>
+            @foreach (var sehir in Model)
+            {
+                @*<li> <a href="SehirBilgiVer/@sehir.Ad" target="_blank">@sehir.Ad isimli şehrin bilgisini göster.</a></li>*@
+                <li> <a asp-action="SehirBilgiVer" asp-route-sehirAd=@sehir.Ad>@sehir.Ad isimli şehrin bilgisini göster.</a></li>
+            }
+        </ul>
+    </div>
+</div>
+

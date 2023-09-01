@@ -1,0 +1,17 @@
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\bin\Release\net6.0\Dietary.BLL.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\bin\Release\net6.0\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\bin\Release\net6.0\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\bin\Release\net6.0\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\bin\Release\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\bin\Release\net6.0\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\bin\Release\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\obj\Release\net6.0\Dietary.BLL.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\obj\Release\net6.0\Dietary.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\obj\Release\net6.0\Dietary.BLL.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\obj\Release\net6.0\Dietary.BLL.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\obj\Release\net6.0\Dietary.BLL.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\obj\Release\net6.0\Dietary.BLL.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\obj\Release\net6.0\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\obj\Release\net6.0\refint\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\obj\Release\net6.0\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.BLL\obj\Release\net6.0\ref\Dietary.BLL.dll

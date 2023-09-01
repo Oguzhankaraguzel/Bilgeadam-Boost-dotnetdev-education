@@ -1,0 +1,10 @@
+﻿@model List<IdentityUser>
+
+<ul>
+    @{
+        foreach (var item in Model)
+        {
+            <li>@item.Email</li>
+        }
+    }
+</ul>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>PERSONEL BİLGİLERİNİ GİRİNİZ</h1>
+    <div>
+      Ad
+      <br />
+      <input type="text" id="txtName" />
+      <span style="color: red" id="txtNameValidation"></span>
+      <br />
+      Soyad
+      <br />
+      <input type="text" id="txtSurname" />
+      <br />
+      Sicil No
+      <br />
+      <input type="text" id="txtNumber" />
+      <br />
+      Bölüm
+      <br />
+      <input type="text" id="txtSection" />
+      <br />
+      <br />
+      <input type="submit" id="btnGonder" value="Personel Bilgilerini Gönder" />
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $("#btnGonder").click(function () {
+          //buttona tıklandığı zaman çalışacak fonksiyonu
+          var personel = {
+            Name: $("#txtName").val(),
+            Surname: $("#txtSurname").val(),
+            Number: $("#txtNumber").val(),
+            Section: $("#txtSection").val(),
+          };
+          $.ajax({
+            type: "POST",
+            url: "https://localhost:7148/Personel/Ekle",
+            data: personel,
+            success: function (data) {
+              console.log(personel);
+              alert("Başarılı bir şekilde gönderilmiştir :)");
+            },
+            error: function (data) {
+              if (data.status == 404) {
+                alert("Böyle bir sayfa bulunamadı!");
+              } else if (data.status == 400) {
+                alert(data.responseText);
+                $("#txtNameValidation").text(
+                  JSON.parse(data.responseText).nameRule
+                );
+                console.log(JSON.parse(data.responseText).nameRule);
+                console.log(JSON.parse(data.responseText).surnameRule);
+                console.log(JSON.parse(data.responseText).numberRule);
+                console.log(JSON.parse(data.responseText).sectionRule);
+              } else {
+                alert("Hata oluştu! Gönderilememiştir :(");
+              }
+            },
+          });
+        });
+      });
+    </script>
+  </body>
+</html>

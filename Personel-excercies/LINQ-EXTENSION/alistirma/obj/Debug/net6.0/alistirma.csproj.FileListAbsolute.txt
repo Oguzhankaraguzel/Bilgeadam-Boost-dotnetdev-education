@@ -1,0 +1,15 @@
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\bin\Debug\net6.0\alistirma.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\bin\Debug\net6.0\alistirma.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\bin\Debug\net6.0\alistirma.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\bin\Debug\net6.0\alistirma.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\bin\Debug\net6.0\alistirma.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\obj\Debug\net6.0\alistirma.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\obj\Debug\net6.0\alistirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\obj\Debug\net6.0\alistirma.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\obj\Debug\net6.0\alistirma.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\obj\Debug\net6.0\alistirma.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\obj\Debug\net6.0\alistirma.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\obj\Debug\net6.0\refint\alistirma.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\obj\Debug\net6.0\alistirma.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\obj\Debug\net6.0\alistirma.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\LINQ-EXTENSION\alistirma\obj\Debug\net6.0\ref\alistirma.dll

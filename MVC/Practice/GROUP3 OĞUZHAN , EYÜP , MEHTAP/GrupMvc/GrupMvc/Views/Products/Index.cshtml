@@ -1,0 +1,129 @@
+﻿@model IEnumerable<GrupMvc.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+@{
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col">
+                <div class="card m-2" style="width: 18rem;">
+                    @{
+                        if (item.ImageData == null)
+                        {
+                            <p>There is no photo</p>
+                        }
+                        else
+                        {
+                            <img class="card-img-top" src="data:image/jpeg;base64,@System.Convert.ToBase64String(item.ImageData)" style=" height: auto  !important" />
+                        }
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name</h5>
+
+                        <p class="card-text">
+                            Price = @item.Price <br>
+                            Stock = @{
+                                if (@item.InStoct == true)
+                                {
+                                <p class="bg-success"> Stokta mevcut</p>
+                                }
+                                else
+                                {
+                                <p class="bg-danger"> Stokta mevcut değil</p>
+                                }
+                            } <br>
+                            Category = @item.Catogory.Name <br>
+                        </p>
+
+
+
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+
+                    </div>
+                </div>
+            </div>
+            
+
+        }
+    </div>
+    
+}
+
+
+@*<div class="card" style="width: 18rem;">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Price)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.InStoct)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Catogory)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PhotoData)
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.InStoct)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Catogory.Id)
+                    </td>
+                        <div class="card-body">
+                            <td>
+                            @{
+                                if (item.ImageData == null)
+                                {
+                                <p>There is no photo</p>
+                                }
+                                else
+                                {
+                                <img src="data:image/jpeg;base64,@System.Convert.ToBase64String(item.ImageData)" style=" height:50px !important" />
+                                }
+                            }
+
+                            </td>
+                        </div>
+
+                        <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>*@
+

@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+
+    <!--Styles İmport ↓-->
+    <link rel="stylesheet" href="/STYLES/styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css"
+      integrity="sha512-SbiR/eusphKoMVVXysTKG/7VseWii+Y3FdHrt0EpKgpToZeemhqHeZeLWLhJutz/2ut2Vw1uQEj2MbRF+TVBUA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!--Styles İmport ↑-->
+  </head>
+
+  <body>
+    <header class="my-5">
+      <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+        <div class="container-fluid">
+          <a class="navbar-brand mx-3" href="#"
+            ><i
+              class="fa-brands fa-trade-federation fa-xl"
+              style="color: #000000"
+            ></i>
+            Company Name™</a
+          >
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#"
+                  ><i class="fa-solid fa-house fa-fw d-none d-lg-inline"></i
+                  ><span class="d-lg-none"> Home</span></a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"
+                  ><i
+                    class="fa-solid fa-location-dot fa-fw d-none d-lg-inline"
+                    style="color: #000000"
+                  ></i
+                  ><span class="d-lg-none">Delivery Address</span></a
+                >
+              </li>
+              <li class="nav-item dropdown">
+                <a
+                  class="nav-link dropdown-toggle"
+                  href="#"
+                  id="navbarDropdown"
+                  role="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  <i
+                    class="fa-solid fa-cart-arrow-down fa-fw d-none d-lg-inline"
+                    style="color: #000000"
+                  ></i
+                  ><span class="d-lg-none"> Cart</span>
+                </a>
+                <ul
+                  class="dropdown-menu"
+                  style="background-color: bisque"
+                  aria-labelledby="navbarDropdown"
+                  id="Cart"
+                ></ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"
+                  ><i
+                    class="fa-solid fa-user d-none d-lg-inline"
+                    style="color: #000000"
+                  ></i
+                  ><span class="d-lg-none">Profile</span></a
+                >
+              </li>
+            </ul>
+            <form class="d-flex">
+              <input
+                class="form-control me-2"
+                type="search"
+                placeholder="Search a Product..."
+                aria-label="Search"
+                id="Search"
+                oninput="GetProductsBySearch()"
+              />
+            </form>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container">
+      <div class="row">
+        <div
+          class="col-lg-2 text-break my-5 text-center d-none d-lg-inline-block"
+        >
+          <div class="h5 my-2">Best Selling Product</div>
+
+          <div class="card d-none d-lg-flex w-auto">
+            <img
+              src="/IMAGES/Hoparlör.png"
+              class="card-img-top w-auto h-auto"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">Bluetooth speaker</h5>
+              <p class="card-text">
+                JBL Charge5, Bluetooth Hoparlör, IPX7, speaker
+              </p>
+              <hr />
+              197$
+              <a href="#" class="btn btn-primary w-100" onclick="AddProductsToCart(1)">Add to Cart</a>
+            </div>
+          </div>
+
+          <div class="h5 my-2">Latest Product</div>
+
+          <div class="card d-none d-lg-flex w-auto">
+            <img
+              src="/IMAGES/Mouse.png"
+              class="card-img-top w-auto h-auto"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">Mouse</h5>
+              <p class="card-text">
+                Logitech Lift Silent Wireless Ergonomic Vertical
+              </p>
+              <hr />
+              50$
+              <a href="#" class="btn btn-primary w-100" onclick="AddProductsToCart(6)">Add to Cart</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-9 row my-5" id="Product"></div>
+
+        <div class="col-lg-1 my-5 text-break text-center d-none d-lg-inline">
+          <div class="h1">ADS</div>
+          <div class="h2">ADS</div>
+          <div class="h3">ADS</div>
+          <div class="h4">ADS</div>
+          <div class="h5">ADS</div>
+          <div class="h6">ADS</div>
+          <div class="h5">ADS</div>
+          <div class="h4">ADS</div>
+          <div class="h3">ADS</div>
+          <div class="h2">ADS</div>
+          <div class="h1">ADS</div>
+        </div>
+      </div>
+    </main>
+    <!--Scripts İmport ↓ -->
+
+    <script src="/SCRITPS/scripts.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/js/bootstrap.bundle.min.js"
+      integrity="sha512-i9cEfJwUwViEPFKdC1enz4ZRGBj8YQo6QByFTF92YXHi7waCqyexvRD75S5NVTsSiTv7rKWqG9Y5eFxmRsOn0A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"
+      integrity="sha512-fD9DI5bZwQxOi7MhYWnnNPlvXdp/2Pj3XSTRrFs5FQa4mizyGLnJcN6tuvUS6LbmgN1ut+XGSABKvjN0H6Aoow=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <!--Scripts İmport ↑ -->
+  </body>
+</html>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teorik-maraton", "teorik-maraton\teorik-maraton.csproj", "{03D7AC9C-514F-4DFE-810F-F198E44298EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03D7AC9C-514F-4DFE-810F-F198E44298EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D7AC9C-514F-4DFE-810F-F198E44298EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D7AC9C-514F-4DFE-810F-F198E44298EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D7AC9C-514F-4DFE-810F-F198E44298EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E328563D-3A26-4091-898C-D5CB10DDE359}
+	EndGlobalSection
+EndGlobal

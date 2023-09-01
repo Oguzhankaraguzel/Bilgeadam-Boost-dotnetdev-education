@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "COFFEE_SHOP_AUTOMATION/1.0.0": {
+        "runtime": {
+          "COFFEE_SHOP_AUTOMATION.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "COFFEE_SHOP_AUTOMATION/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

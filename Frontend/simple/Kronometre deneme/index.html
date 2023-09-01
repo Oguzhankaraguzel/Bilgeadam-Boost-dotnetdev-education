@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soru Kronometresi Testi</title>
+</head>
+<body>
+
+<h1>Sınav Soruları</h1>
+
+<div class="questions">
+    <div class="question" id="question1">
+        <h2>Soru 1</h2>
+        <p>Kronometre: <span class="timer">0:00</span></p>
+    </div>
+    
+    <div class="question" id="question2">
+        <h2>Soru 2</h2>
+        <p>Kronometre: <span class="timer">0:00</span></p>
+    </div>
+    
+    <div class="question" id="question3">
+        <h2>Soru 3</h2>
+        <p>Kronometre: <span class="timer">0:00</span></p>
+    </div>
+</div>
+
+<script>
+    function startTimer(questionId) {
+        var startTime = new Date().getTime();
+        
+        var timer = setInterval(function() {
+            var currentTime = new Date().getTime();
+            var timeDiff = currentTime - startTime;
+            
+            var minutes = Math.floor(timeDiff / 60000);
+            var seconds = Math.floor((timeDiff % 60000) / 1000);
+            
+            document.getElementById(questionId).querySelector(".timer").innerHTML = minutes + ":" + (seconds < 10 ? "0" : "") + seconds;
+
+        }, 1000);
+        
+        return timer;
+    }
+
+    var activeTimers = {};
+
+    document.querySelectorAll(".question").forEach(function(question) {
+        question.addEventListener("mouseenter", function() {
+            var questionId = this.id;
+
+            for (var key in activeTimers) {
+                clearInterval(activeTimers[key]);
+            }
+            
+            activeTimers[questionId] = startTimer(questionId);
+        });
+    });
+</script>
+
+</body>
+</html>

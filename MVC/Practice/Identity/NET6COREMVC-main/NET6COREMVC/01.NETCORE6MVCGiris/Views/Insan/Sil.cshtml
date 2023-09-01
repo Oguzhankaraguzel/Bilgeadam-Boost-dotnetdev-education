@@ -1,0 +1,16 @@
+﻿@model bool
+
+@{
+    if (Model)
+    {
+        <div class="alert alert-success">
+            İnsan başarıyla silindi!
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger">
+            Böyle bir insan bulunamadığı için silemedim!
+        </div>
+    }
+}

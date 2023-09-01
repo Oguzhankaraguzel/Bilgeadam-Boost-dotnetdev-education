@@ -1,0 +1,9 @@
+﻿add-migration mig_1 bize sadece database oluşturulmadan önce oluşturulacak tablolar hakkında bilgi verir.
+bu sayede data base oluşmadan önce hata var mı kontrol edebiliriz.
+Update-database ile database oluşturulur.
+Database oluşturulurker entityframework önce Default convetion'a bakar ve buna göre işlem yapar.
+Eğer yoksa Data Annotation'a bakar ve buna göre işlem yapar.
+Eğer o da yoksa Fluent Api'ye bakar ve ona göre işlem yapar.
+Default convetion entity sınıfları üzerinden ve sadece navigation prop kullanarak ilişki kurmamızı sağlayan yapı.
+Data Annotation attribute'ları kullanarak iki tablo arasında ilişki kurmamızı sağlayan yapı
+Fluent Api sadece context sınıfında "OnModelCreating" metodunun override edilerek metodun içerisinde ilişkileri çeşitli metodlarla kurmamızı sağlayan yapı.

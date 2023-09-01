@@ -1,0 +1,22 @@
+﻿@model Insan
+
+@{
+    if (Model is not null)
+    {
+        <h1>@Model.Id id numarasına sahip kişinin bilgileri</h1>
+        <div>
+            <p>
+                <label>Adı Soyadı: </label> <span>@Model.AdiSoyadi</span>
+            </p>
+            <p>
+                <label>Doğum Yılı: </label> <span>@Model.DogumYili</span>
+            </p>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-danger">
+            Böyle bir kişi yoktur!
+        </div>
+    }
+}

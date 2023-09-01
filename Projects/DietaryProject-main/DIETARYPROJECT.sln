@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dietary.Entities", "Dietary.Entities\Dietary.Entities.csproj", "{5C1FAAF6-F9BB-4C40-94D1-83D5B54C65AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dietary.DAL", "Dietary.DAL\Dietary.DAL.csproj", "{3C4D8597-C968-4925-9957-93321E7105E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dietary.BLL", "Dietary.BLL\Dietary.BLL.csproj", "{E632B743-C8F2-47A9-80AC-ED31BA6B7D93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notlar", "Notlar", "{4C0D782A-8029-4CE3-B891-C5DC41B3FAEE}"
+	ProjectSection(SolutionItems) = preProject
+		Araştırılacaklar.txt = Araştırılacaklar.txt
+		Geliştirilebilirler.txt = Geliştirilebilirler.txt
+		Güncellemeler.txt = Güncellemeler.txt
+		Sorgu.txt = Sorgu.txt
+		Yapılması gerekenler.txt = Yapılması gerekenler.txt
+		Önemli kodlar.txt = Önemli kodlar.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginWFA", "LoginWFA\LoginWFA.csproj", "{B2BC6DB4-33A9-41F2-A34E-6E0D758440A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C1FAAF6-F9BB-4C40-94D1-83D5B54C65AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C1FAAF6-F9BB-4C40-94D1-83D5B54C65AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C1FAAF6-F9BB-4C40-94D1-83D5B54C65AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C1FAAF6-F9BB-4C40-94D1-83D5B54C65AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4D8597-C968-4925-9957-93321E7105E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4D8597-C968-4925-9957-93321E7105E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4D8597-C968-4925-9957-93321E7105E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4D8597-C968-4925-9957-93321E7105E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E632B743-C8F2-47A9-80AC-ED31BA6B7D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E632B743-C8F2-47A9-80AC-ED31BA6B7D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E632B743-C8F2-47A9-80AC-ED31BA6B7D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E632B743-C8F2-47A9-80AC-ED31BA6B7D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BC6DB4-33A9-41F2-A34E-6E0D758440A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BC6DB4-33A9-41F2-A34E-6E0D758440A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BC6DB4-33A9-41F2-A34E-6E0D758440A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BC6DB4-33A9-41F2-A34E-6E0D758440A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D724F7-0B41-4CBC-A986-4D66DE039A70}
+	EndGlobalSection
+EndGlobal

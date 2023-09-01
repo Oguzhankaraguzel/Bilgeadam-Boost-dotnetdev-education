@@ -1,0 +1,12 @@
+﻿1. Ürün modeli oluşturunuz.
+//Urun.cs //Product.cs
+- id
+- isim
+- stok miktarı
+- kategori
+
+3 tane ürünü UrunController içerisinde veri olarak kullanmak üzere
+liste içerisinde oluşturalım.
+
+
+2. Ürünler tablo halinde "Product" ya da "Product/Index" route'u kullanıldığında görüntülensin

@@ -1,0 +1,22 @@
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\bin\Debug\wfaAsenkronDeneme.exe.config
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\bin\Debug\wfaAsenkronDeneme.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\bin\Debug\wfaAsenkronDeneme.pdb
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.Form1.resources
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.Properties.Resources.resources
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.csproj.GenerateResource.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\bin\Debug\wfaAsenkronDeneme.exe.config
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\bin\Debug\wfaAsenkronDeneme.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\bin\Debug\wfaAsenkronDeneme.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.Form1.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\alistirma\AsenkronDeneme\wfaAsenkronDeneme\obj\Debug\wfaAsenkronDeneme.pdb

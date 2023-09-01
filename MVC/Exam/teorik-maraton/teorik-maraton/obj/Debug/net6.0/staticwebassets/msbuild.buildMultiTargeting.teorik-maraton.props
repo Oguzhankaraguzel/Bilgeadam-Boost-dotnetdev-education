@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\teorik-maraton.props" />
+</Project>

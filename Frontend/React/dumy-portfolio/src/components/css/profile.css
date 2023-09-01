@@ -1,0 +1,21 @@
+.Profile{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 10px;
+    list-style: none;
+}
+
+.Profile a {
+    margin: 20px;
+    font-size: x-large;
+    text-decoration: none;
+    color: rgb(90, 90, 90);
+  }
+
+.pp{
+    image-orientation: from-image;
+    aspect-ratio: 100px;
+    max-height: 300px;
+    height: auto;
+    width: auto;
+}

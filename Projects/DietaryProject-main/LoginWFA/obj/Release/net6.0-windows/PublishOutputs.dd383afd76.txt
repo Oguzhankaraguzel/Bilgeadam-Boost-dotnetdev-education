@@ -1,0 +1,54 @@
+C:\Users\OGUZHAN\Desktop\deployment\Remember Me.exe
+C:\Users\OGUZHAN\Desktop\deployment\Remember Me.dll
+C:\Users\OGUZHAN\Desktop\deployment\Remember Me.deps.json
+C:\Users\OGUZHAN\Desktop\deployment\Remember Me.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\deployment\Remember Me.pdb
+C:\Users\OGUZHAN\Desktop\deployment\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\deployment\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\deployment\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\deployment\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\deployment\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\deployment\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\deployment\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\deployment\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\deployment\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\deployment\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\deployment\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\deployment\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\deployment\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\deployment\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\deployment\Dietary.Entities.pdb

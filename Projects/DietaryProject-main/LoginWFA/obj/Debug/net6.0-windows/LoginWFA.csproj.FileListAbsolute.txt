@@ -1,0 +1,1556 @@
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Form1.resources
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\Ali Ozan\source\repos\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Form1.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Form1.resources
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\Ali Ozan\Desktop\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Form1.resources
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\Ali Ozan\Desktop\Dietary-V1.0-main\DIETARY\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Form1.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Form1.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.ActivitiesForm.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.SummaryForm.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.ActivitiesForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.SummaryForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.ActivitiesForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.SummaryForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.ActivitiesForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.SummaryForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.RegistroForm.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SummaryLocalization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailsLocalization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupLocalization.resources
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ActivityLocalization.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ActivityLocalization.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CalorieLocalization.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.ActivitiesForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.SummaryForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupLocalization.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SummaryLocalization.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailsLocalization.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.RegisterForm.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.RegisterFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Resources.SettingsFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ActivityLocalization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CalorieLocalization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.ActivitiesForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.RegisterForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.SummaryForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.RegisterFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Resources.SettingsFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupLocalization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SummaryLocalization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailsLocalization.resources
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ActivityLocalization.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CalorieLocalization.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.ActivitiesForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.RegisterForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.SummaryForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.RegisterFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Resources.SettingsFormLocalization.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupLocalization.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SummaryLocalization.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailsLocalization.resources
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ActivityLocalization.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CalorieLocalization.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.ActivitiesForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.RegisterForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.SummaryForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.RegisterFormLocalization.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Resources.SettingsFormLocalization.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupLocalization.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SummaryLocalization.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailsLocalization.resources
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.runtimeconfig.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microcharts.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.BLL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.DAL.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\bin\Debug\net6.0-windows\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ActivityLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CalorieLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.ActivitiesForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.CaloryForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.LoginForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MealForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.RegisterForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SettingsForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Forms.SummaryForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailForm.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Localization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.MainFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.ProfilFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.RegisterFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.Resources.SettingsFormLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SignupLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.SummaryLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.UserDetailsLocalization.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.csproj.CopyComplete
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\refint\LoginWFA.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\LoginWFA.genruntimeconfig.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\LoginWFA\obj\Debug\net6.0-windows\ref\LoginWFA.dll

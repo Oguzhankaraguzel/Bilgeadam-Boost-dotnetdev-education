@@ -1,0 +1,71 @@
+﻿@model InsanTakimViewModel
+
+<h1>İnsanlar</h1>
+<table>
+    <thead>
+        <tr>
+            <th>
+                Adı Soyadı
+            </th>
+            <th>
+                Doğum Yılı
+            </th>
+            <th>
+                Yaş
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var insan in Model.Insanlar)
+            {
+                <tr>
+                    <td>
+                        @insan.AdiSoyadi
+                    </td>
+                    <td>
+                        @insan.DogumYili
+                    </td>
+                    <td>
+                        @(DateTime.Now.Year - insan.DogumYili)
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<h1>Takımlar</h1>
+<table>
+    <thead>
+        <tr>
+            <th>
+                İsim
+            </th>
+            <th>
+                Kuruluş Yılı
+            </th>
+            <th>
+                Yaş
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (var takim in Model.Takimlar)
+            {
+                <tr>
+                    <td>
+                        @takim.TakimIsmi
+                    </td>
+                    <td>
+                        @takim.KurulusYili
+                    </td>
+                    <td>
+                        @(DateTime.Now.Year - takim.KurulusYili)
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

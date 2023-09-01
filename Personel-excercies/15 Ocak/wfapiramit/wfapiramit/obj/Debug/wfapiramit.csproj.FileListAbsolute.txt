@@ -1,0 +1,21 @@
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.Form1.resources
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.Properties.Resources.resources
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.csproj.GenerateResource.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfapiramit\wfapiramit\bin\Debug\wfapiramit.exe.config
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfapiramit\wfapiramit\bin\Debug\wfapiramit.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfapiramit\wfapiramit\bin\Debug\wfapiramit.pdb
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\Bilgeadam\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\bin\Debug\wfapiramit.exe.config
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\bin\Debug\wfapiramit.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\bin\Debug\wfapiramit.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.csproj.SuggestedBindingRedirects.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.Form1.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.Properties.Resources.resources
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.exe
+C:\Users\OGUZHAN\Desktop\yazılım dersler\EKSTRALAR\ALIŞTIRMA\15 Ocak\wfapiramit\wfapiramit\obj\Debug\wfapiramit.pdb

@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Use this page to detail your site's privacy policy.</p>
+
+<p>@Context.Request.Cookies["Sehir"]</p>
+<p>@Context.Request.Cookies["Isim"]</p>
+<div>
+    <h1>OTURUM AÇAN KULLANICI</h1>
+    <p>@Context.Session.GetString("username")</p>
+</div>

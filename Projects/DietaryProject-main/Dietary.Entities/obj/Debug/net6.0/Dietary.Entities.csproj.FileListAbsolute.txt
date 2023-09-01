@@ -1,0 +1,180 @@
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\DIETART PROJECT\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\Yeni klasör\DIETARYPROJECT\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\Yeni klasör\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\Diateryproject\DIETARYPROJECTson\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\DIETARYPROJECT.V.2.0.0\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\dpv3321\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\GROUP - 1 DİETARY PROJECT\DIETARY PROJECT\DIETARYPROJECT.V.2.2.2\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\Ali Ozan\Desktop\DietProject\DietaryProject\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\ALİ OZAN\Desktop\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.deps.json
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\bin\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.AssemblyInfo.cs
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\refint\Dietary.Entities.dll
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\Dietary.Entities.pdb
+C:\Users\OGUZHAN\Desktop\yazılım dersler\Bilgeadam projeler\DIETARYPROJECT\GROUP - 1 DİETARY PROJECT\DietaryProject-main\Dietary.Entities\obj\Debug\net6.0\ref\Dietary.Entities.dll

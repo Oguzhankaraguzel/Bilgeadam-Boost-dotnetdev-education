@@ -1,0 +1,11 @@
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\bin\Debug\HESAP MAKINESI.exe.config
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\bin\Debug\HESAP MAKINESI.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\bin\Debug\HESAP MAKINESI.pdb
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\obj\Debug\HESAP MAKINESI.csproj.AssemblyReference.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\obj\Debug\HESAP MAKINESI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\obj\Debug\HESAP_MAKINESI.Form1.resources
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\obj\Debug\HESAP_MAKINESI.Properties.Resources.resources
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\obj\Debug\HESAP MAKINESI.csproj.GenerateResource.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\obj\Debug\HESAP MAKINESI.csproj.CoreCompileInputs.cache
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\obj\Debug\HESAP MAKINESI.exe
+C:\Users\Oğuzhan KARAGÜZEL\OneDrive\Masaüstü\yazılım dersler\2 SUBAT\ODEV\2SUBATOGUZHANKARAGUZELODEV\HESAP MAKINESI\obj\Debug\HESAP MAKINESI.pdb
