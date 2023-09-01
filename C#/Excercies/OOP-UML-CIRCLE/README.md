@@ -1,0 +1,2 @@
+# OOP-UML.CIRCLE
+creates a circle, determines the center of the circle, determines its radius, calculates the area of the circle, calculates its circumference, calculates the distance between 2 circles, calculates whether 2 circles are inside each other, finds the larger one 2 Makes the circle tangent to each other
